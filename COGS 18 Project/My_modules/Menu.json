@@ -1,0 +1,208 @@
+{
+	"Category": 
+	{
+		"Appetizers": 
+		{
+			"Pan-fried Vegetable Dumplings":
+			{
+				"Price" : "5.59",
+				"Description" : "Vegan friendly: dumplings are stuffed with cabbage, carrots, and spiced tofu."
+			},
+			"Crystal Skin Shrimp Dumplings":
+			{
+				"Price" : "6.99",
+				"Description" : "Classic dim sum which are plump and juicy, with chunks of shrimp inside."
+			},
+			"Shānxi Bean Jelly":
+			{
+				"Price" : "4.59",
+				"Description" : "The traditional dish from Shānxi bean jelly in chili sauce with a silky and smooth taste." 
+			},
+			"Blueberry Chinese Yam":
+			{	
+				"Price" : "6.79",
+				"Description" : "The magical combination of blueberry and Chinese Yam brings the unforgettable collision between fruit and vegetable." 
+			}
+		},
+		"Chicken":
+		{
+			"Kung Pao Pine Nut Pei Chicken":
+			{
+				"Price" : "14.99",
+				"Description" : "Diced chicken breast wok tossed with Chinese celery in peppery Kung Pao sauce and topped with roasted pine nuts."
+			},
+			"Hong Kong Pin Pei Chicken":
+			{
+				"Price" : "24.42",
+				"Description" : "Whole roasted free range chicken carved and served Peking ducks style with scallions and cucumber rolled in steamed po-ping crepes with plum sauce."
+			},
+			"Chiu Chau Chicken":
+			{
+				"Price" : "16.99",
+				"Description" : "Sliced chicken breast wok tossed method Chiu Chau with pepper leaves and honey glazed pecans." 
+			},
+			"Juicy Steamed Chicken in Chili Sauce":
+			{
+				"Price" : "12.99",
+				"Description" : "Boneless chicken fillets mixed with baby bamboo shoots, topped with scallion and sesame."
+			},
+			"Pineapple Wok-tossed Rice":
+			{
+				"Price" : "15.49",
+				"Description" : "Traditional style with chicken, pineapple and fresh vegetables served with whole pineapple as the base."
+			}
+		},
+		"Seafood":
+		{
+			"Lychee Autumn Fish":
+			{
+				"Price" : "28.99",
+				"Description" : "Porcupine-cut whole autumn fish crisped and served with a lychee sweet and sour sauce."
+			},
+			"Shrimp with Nuts of Olive Mellow":
+			{
+				"Price" : "20.99",
+				"Description" : "Sweet bay shrimp wok tossed with black olives, fresh ginger, and roasted olive mellow nuts."
+			},
+			"Red Peking Prawns":
+			{
+				"Price" : "16.69",
+				"Description" : "Succulent prawns crisped and tossed with out own piquant onion and garlic Peking sauce."
+			},
+			"‘Xi Zhi’ Wok-Fried Crab":
+			{
+				"Price" : "17.99",
+				"Description" : "Fresh crabs fried with dry chili and Sichuan peppercorn."
+			}
+		},
+		"Pork/Beef/Lamb":
+		{
+			"Mongolian Lamb /Organic Beef":
+			{
+				"Price" : "18.99",
+				"Description" : "A robust Northern dish with tender slices of lamb or beef sizzled in Shao String wine with leeks and peppers."
+			},
+			"Stir-Fried Chili Pork Ribs":
+			{
+				"Price" : "16.99",
+				"Description" : "Pork sparerib fried with Sichuan dry chili and fresh pepper."
+			},
+			"Twice Cooked Pork":
+			{
+				"Price" : "11.99",
+				"Description" : "Marbled pork cooked in Sichuan style with green garlic, sprouts, and fresh pepper."
+			},
+			"Marbled Beef Noodle":
+			{
+				"Price" : "10.99",
+				"Description" : "Marbled beef cooked with rice noodle, sprouts, and cilantro in a casserole."
+			},
+			"Stir-Fried Beef with Scallions":
+			{
+				"Price" : "17.59",
+				"Description" : "The organic beef stir-fried with green scallions and onions."
+			},
+			"Siu Lum Kung Boneless Ribs":
+			{
+				"Price" : "13.59",
+				"Description" : "Classical recipe of crisp spareribs with sweet and sour plum sauce served with lychee."
+			}
+		},
+		"Vegetable":
+		{
+			"Chinese Yam":
+			{
+				"Price" : "13.99",
+				"Description" : "None",
+				"Preparation" : 
+				[
+					"Sautéed", 
+					"Garlic Stir-Fry", 
+					"Dry Chili Stir-Fry", 
+					"Sour and Spicy", 
+					"Braised in Broth"
+				]
+			},
+			"Mustard Leaf":
+			{
+				"Price" : "10.99",
+				"Description" : "None",
+				"Preparation" : 
+				[
+					"Sautéed", 
+					"Garlic Stir-Fry", 
+					"Dry Chili Stir-Fry", 
+					"Sour and Spicy", 
+					"Braised in Broth"
+				]
+			},
+			"Taiwanese Lettuce (A-Choy)":
+			{
+				"Price" : "9.99",
+				"Description" : "None",
+				"Preparation" : 
+				[
+					"Sautéed", 
+					"Garlic Stir-Fry", 
+					"Dry Chili Stir-Fry", 
+					"Sour and Spicy", 
+					"Braised in Broth"
+				]
+			},
+			"Shredded Potatoes":
+			{
+				"Price" : "9.99",
+				"Description" : "None",
+				"Preparation" : 
+				[
+					"Sautéed", 
+					"Garlic Stir-Fry", 
+					"Dry Chili Stir-Fry", 
+					"Sour and Spicy", 
+					"Braised in Broth"
+				]
+			}
+		},
+		"Rice, Noodles and Others":
+		{
+			"Mama’s Handmade Noodle Stew": 
+			{
+				"Price" : "8.99",
+				"Description" : "Traditional homemade style noodle with egg, potato, Chinese yam, tomato, and scallion"
+			},
+			"Ginger Scallion Rice odles":
+			{
+				"Price" : "10.59",
+				"Description" : "Fresh ginger and green scallion wok tossed with Siam long grain rice or with homemade egg noodles."
+			},
+			"Sichuan Yu Shiang Eggplant":
+			{
+				"Price" : "11.49",
+				"Description" : "Organic eggplant wok tossed with garlic and chilies in Sichuan Yu Shiang spicy brown sauce."
+			},
+			"Long Beans with Toasted Black Bean":
+			{
+				"Price" : "11.59",
+				"Description" : "Chinese long beans wok tossed with toasted black beans and garlic."
+			},
+			"Impressive Cold Noodles":
+			{
+				"Price" : "8.99",
+				"Description" : "Shanxi style egg noodle mixed with sprouts, crushed peanuts, and scallion."
+			}
+		},
+		"Desserts":
+		{
+			"Cinderella’s Pumpkin Ride":
+			{
+				"Price" : "7.69",
+				"Description" : "Combination of pumpkin, red bean paste, and sesame topped with honey."
+			},
+			"Fried Rice Cake with Brown Sugar":
+			{
+				"Price" : "6.99",
+				"Description" : "Sticky rice dangos mixed with brown sugar syrup and topped with soy bean powder."
+			}
+		}
+	}
+}
